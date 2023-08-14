@@ -1,4 +1,4 @@
-package Ejercicio1;
+//package Ejercicio-1;
 
 public class locality {
     private int seats;
